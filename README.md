@@ -7,13 +7,13 @@ Igra nudi tri razine težine:
 - Teško: 25 mina na mreži 10x10
 - Nemoguće: 35 mina na mreži 10x10
 # Funkcionalnosti
-Interaktivno sučelje: Dugmad koja reagiraju na lijevi i desni klik.
-Lijevi klik: Otkriva sadržaj ćelije.
-Desni klik: Označava ćeliju zastavicom (🚩).
-Zvukovi:
-Zvuk eksplozije pri gubitku igre.
-Zvuk pobjede kada uspješno otkrijete sva sigurna polja.
-Izbor težine: Igrač bira razinu težine prije početka igre.
+- Interaktivno sučelje: Dugmad koja reagiraju na lijevi i desni klik.
+- Lijevi klik: Otkriva sadržaj ćelije.
+- Desni klik: Označava ćeliju zastavicom (🚩).
+- Zvukovi:
+    - Zvuk eksplozije pri gubitku igre.
+    - Zvuk pobjede kada uspješno otkrijete sva sigurna polja.
+- Izbor težine: Igrač bira razinu težine prije početka igre.
 # Kako igrati?
 1. Pri pokretanju igre odaberite razinu težine: Lako, Srednje, ili Teško.
 2. Kliknite na ćeliju kako biste je otkrili:
