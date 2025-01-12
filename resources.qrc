@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>vineboom.mp3</file>
+        <file>vineboom.wav</file>
+        <file>hihihiha.mp3</file>
+        <file>hihihiha.wav</file>
+    </qresource>
+</RCC>
