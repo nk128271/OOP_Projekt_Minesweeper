@@ -3,9 +3,9 @@ Ovo je klasična igra Minesweeper implementirana u C++ koristeći Qt framework. 
 
 Igra nudi tri razine težine:
 
-Lako: 10 mina na mreži 10x10
-Teško: 25 mina na mreži 10x10
-Nemoguće: 35 mina na mreži 10x10
+- Lako: 10 mina na mreži 10x10
+- Teško: 25 mina na mreži 10x10
+- Nemoguće: 35 mina na mreži 10x10
 # Funkcionalnosti
 Interaktivno sučelje: Dugmad koja reagiraju na lijevi i desni klik.
 Lijevi klik: Otkriva sadržaj ćelije.
